@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+**/build/
+.cxx/
+
+# Local config/secrets
+local.properties
+*.keystore
+*.jks
+signing.properties
+*.pem
+*.p12
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Outputs
+*.apk
+*.aab
+*.ap_
+captures/
+outputs/
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db

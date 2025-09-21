@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dream Journal</string>
+    <string name="notification_channel_name">Dream Reminders</string>
+    <string name="notification_channel_desc">Reminders to record dreams</string>
+    <string name="notification_title">Record your dream</string>
+    <string name="notification_text">Open the app and jot down last night\'s dream</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:color="#FFFFFF" />
+	<!-- Use a simple selector to define a solid color as a color resource -->
+	<!-- Alternatively, move this to res/values/colors.xml as <color name="ic_launcher_background">#FFFFFF</color> -->
+	<!-- but keeping it here avoids adding a new values file for now. -->
+    
+</selector>
